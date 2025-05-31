@@ -1,0 +1,7 @@
+dsatp_env/
+*.pyc
+__pycache__/
+*.pkl
+*.h5
+datasets/
+models/
